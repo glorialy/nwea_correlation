@@ -1,6 +1,3 @@
-#VERSION 1.0 
-#VERSION 2.0 could do the fasit plots by gender, race, etc.
-
 ### Set working directory
 
 ### Load libraries
